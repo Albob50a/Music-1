@@ -1,6 +1,6 @@
-token=NTI5MjIwNDQyMjgwNTU4NjAz.DwyWHA.zlqhSq0OLSPm9z6rpJmtxncnxpg
-owner=529076415694635019
-prefix=D
-game= `💛`دكتور تريك`👑`
+token=NTg3NjI3NTc3NjkxMDc4NjY3.XRJPAg.WhgFSbjZGTndGPnIyKWB7m0y4AU
+owner=401044429646987275
+prefix=6
+game= `💛`بودي`👑`
 stayinchannel=true 
 songinstatus=false 
